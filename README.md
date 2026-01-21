@@ -30,9 +30,9 @@ Each performance level corresponds to a prompt file in the `prompts/` directory.
 
 ## Directory Structure
 
-inputs/ # One .txt file per question
-prompts/ # System prompt and user prompts (one per performance-level)
-outputs/ # Generated exemplar responses
+- inputs/ # One .txt file per question
+- prompts/ # System prompt and user prompts (one per performance-level)
+- outputs/ # Generated exemplar responses
 
 ---
 
@@ -54,3 +54,4 @@ outputs/ # Generated exemplar responses
 ## License
 
 The repository is licensed under the MIT License.  
+
