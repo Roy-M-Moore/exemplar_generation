@@ -1,0 +1,18 @@
+<question>
+QUESTION: Answer the following about interpersonal behaviour (100 points).
+# A) Define proactive aggression and reactive aggression. (30 points)
+# B) Define the concept of altruism and briefly explain in-group favouritism. (40 points)
+# C) A student observes a classmate arrive late and immediately concludes the classmate is irresponsible. Identify the cognitive error illustrated and define it. (30 points)
+<\question>
+
+<grading_rubric>
+# A) Proactive and reactive aggression (30 points total):
+## Defines proactive aggression as planned, goal-directed behaviour used as a means-to-an-end. (15 points)
+## Defines reactive aggression as impulsive, emotion-driven behaviour that occurs in response to provocation or perceived threat. (15 points)
+# B) Altruism and in-group favouritism (40 points total):
+## Defines altruism as intentional behaviour aimed at helping another person, often involving a potential cost to oneself. (20 points)
+## Explains in-group favouritism as the preferential treatment members of one’s own group. (20 points)
+# C) Attribution errors (30 points total):
+## Identifies the error as fundamental attribution error or correspondence bias. (10 points)
+## Defines the fundamental attribution error as the tendency to attribute others’ behaviour to internal dispositions rather than situational factors. (20 points)
+<\grading_rubric>

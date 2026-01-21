@@ -1,0 +1,22 @@
+<question>
+QUESTION: Answer the following about emotions and motivation (100 points).
+# A) Define the two underlying dimensions psychologists use to describe emotions. (20 points)
+# B) Briefly compare the James-Lange theory and the two-factor (Schachter-Singer) theory of emotion. (30 points)
+# C) Describe the two neural pathways involved in emotional processing, naming the key brain structure involved in each. (30 points)
+# D) Define intrinsic and extrinsic motivation. (20 points)
+<\question>
+
+<grading_rubric>
+# A) Dimensions of emotion (20 points total):
+## Defines arousal as level of physiological activation or alertness. (10 points)
+## Defines valence as the positive-negative quality or pleasantness of an emotion. (10 points)
+# B) Theories of emotion (30 points total):
+## James-Lange: explains bodily response precedes and produces the emotion. (15 points)
+## Two-factor (Schachter-Singer): explains that general arousal combined with cognitive appraisal produces a specific emotion. (15 points)
+# C) Two neural pathways (30 points total):
+## Describes the fast pathway to the amygdala and its role in rapid appraisal and quick responses. (15 points)
+## Describes the slower cortical pathway and its role in detailed analysis and downregulation of the amygdala. (15 points)
+# D) Intrinsic and extrinsic motivation (20 points total):
+## Defines intrinsic motivation as doing something for enjoyment or interest. (10 points)
+## Defines extrinsic motivation as doing something for external rewards or to avoid punishment. (10 points)
+<\grading_rubric>

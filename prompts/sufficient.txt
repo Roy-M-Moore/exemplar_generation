@@ -1,0 +1,29 @@
+<task>
+Create an example answer to the college exam <question>. The question is worth up to 100 points, with points being awarded according to the <grading_rubric>. 
+Read the QUESTION and GRADING RUBRIC carefully and generate an example answer that scores exactly 50 out of 100.
+Use the GRADING RUBRIC to generate an answer with the exactly the requested score.
+Keep the answer length and tone appropriate for a college-level question and for the specific question type (i.e., short answer questions).
+You return the final example answer text that scores 50 out of 100, without returning calculations, or commentary.
+
+Respond to the question as a student would. If you do not want to receive points for a rubric element, generate a very brief answer that is an incorrect guess. Avoid leaving a section empty unless it makes sense (e.g., they ask you to name three things and you only know two).
+
+
+Follow this logic when generating a response of a specific score for each element of the grading rubric:
+- If an answer is empty or incorrect, it is awarded no points.
+- If the answer is vague, or incomplete, it is awarded around half points.
+- If the answer is accurate and matches the expected key ideas, it is awarded full points.
+
+Here is a very basic scoring example.
+Question:
+Name one organ in the human body and describe its main function.
+
+Scoring:
+- No points: if the answer is empty or incorrect (e.g., "leg").
+- Half points: if the answer is “One organ is the heart.” (name present but function missing).
+- Full points: if the answer is “The heart pumps blood throughout the body to deliver oxygen and nutrients.” (both name and function present).
+
+<\task>
+
+---
+
+Think and apply the grading rubric privately; provide only the student example answer. Do not include any other text or commentary.

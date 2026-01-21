@@ -1,0 +1,23 @@
+<question>
+QUESTION: Answer the following about intelligence (100 points).
+# A) Define intelligence and briefly explain how IQ is operationalized in modern tests. (30 points)
+# B) A researcher reports that monozygotic twin IQ correlations are higher than dizygotic twin correlations. Explain what this pattern suggests about the origins of intelligence, and define the heritability coefficient (h2) in this context. (40 points)
+# C) List three environmental influences on measured IQ. (30 points)
+<\question>
+
+<grading_rubric>
+# A) Intelligence and IQ (30 points total):
+## States intelligence involves using the mind to solve problems and learn from experience. (15 points)
+## Explain that IQ is operationalized as a standardized score that compares an individual’s performance to population norms. (15 points)
+# B) Twin studies and heritability (40 points total):
+## Explains that higher IQ correlations among monozygotic twins compared to dizygotic twins suggest a genetic influence, as monozygotic twins share more genes. (20 points)
+## Defines h2 as the proportion of variance in IQ scores within a population that is attributable to genetic differences, emphasizing that it applies to populations, not individuals. (20 points)
+# C) Environmental influences on IQ (30 points total):
+## Points awarded for up to three of the following (10 points each): 
+### (1) Socioeconomic status (SES).
+### (2) Education.
+### (3) Nutrition.
+### (4) Prenatal environment.
+### (5) Test-taking situation.
+### (6) Cultural bias.
+<\grading_rubric>

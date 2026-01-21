@@ -1,0 +1,24 @@
+<question>
+QUESTION: Answer the following about human language and thinking (100 points).
+# A) List four key developmental milestones in typical early language acquisition and give the approximate age range for each milestone. (40 points)
+# B) Identify the roles of Broca's area and Wernicke's area in language. (20 points)
+# C) Define prototype theory and exemplar theory of categorization. (20 points)
+# D) Define belief bias and the illusory truth effect. (20 points)
+<\question>
+
+<grading_rubric>
+# A) Key developmental milestones (40 points in total):
+## Mentions newborns show phoneme discrimination, which declines by about 6 to 12 months. (10 points)
+## Mentions babbling typically begins around 4 to 6 months. (10 points)
+## Mentions first words usually appear around 10 to 12 months. (10 points)
+## Mentions simple sentences emerge around 24 months. (10 points)
+# B) Broca's area and Wernicke's area (20 points in total):
+## Explains Broca's area is responsible for language production and grammatical processing. (10 points) 
+## Explains Wernicke's area is responsible for language comprehension and meaning. (10 points)
+# C) Prototype vs exemplar theories (20 points in total):
+## Explains prototype theory involves categorizing based on an average or ideal example of a category. (10 points) 
+## Explains exemplar theory involves categorizing by comparing new items to stored specific examples of a category. (10 points)
+# D) Belief bias and the illusory truth effect (20 points in total):
+## Explains the belief bias occurs when judgments are based on the believability of conclusions rather than their logical validity. (10 points)
+## Explains the illusory truth effect occurs when repeated statements are perceived as more truthful. (10 points)
+<\grading_rubric>

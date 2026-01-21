@@ -1,0 +1,22 @@
+<question>
+QUESTION: Answer the following about learning (100 points).
+# A) In the context of classical conditioning, describe one reason why some stimulus pairings are learned more easily than others, and name a brain structure important for fear conditioning. (25 points)
+# B) Define positive reinforcement and negative reinforcement. (30 points)
+# C) Briefly explain what shaping is. (15 points)
+# D) Contrast observational learning and implicit learning by giving one defining feature of each, and name one neural or cognitive system implicated in observational learning. (30 points)
+<\question>
+
+<grading_rubric>
+# A) Classical conditioning (25 points total):
+## Explains that some stimulus pairings are learned more easily due to species-specific biological or evolutionary predispositions (preparedness). (15 points)
+## Identifies the amygdala as important for fear conditioning. (10 points)
+# B) Positive reinforcement and negative reinforcement (30 points total):
+## Defines positive reinforcement as adding a stimulus to increase a behaviour. (15 points)
+## Defines negative reinforcement as removing an aversive stimulus to increase a behaviour. (15 points)
+# C) Shaping (15 points):
+## Defines shaping as reinforcing successive approximations toward a target behaviour.
+# D) Observational learning and implicit learning (30 points total):
+## Describes observational learning as learning by watching others. (10 points)
+## Describes implicit learning as unconscious learning of patterns. (10 points)
+## Mentions mirror neuron system or motor cortical regions as involved in observational learning. (10 points)
+<\grading_rubric>

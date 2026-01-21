@@ -1,0 +1,20 @@
+<question>
+QUESTION: Answer the following about stress and health (100 points).
+# A) Define the term stressor and briefly distinguish an acute stressor from a chronic stressor. (40 points)
+# B) Describe the body’s physiological response to a threat, naming the primary hormonal axis involved (30 points)
+# C) Briefly describe the three phases of the general adaptation syndrome. (30 points)
+
+<\question>
+
+<grading_rubric>
+# A) Stressors (40 points total):
+## Provides a clear definition of stressor: event or demand that threatens well-being or requires adjustment. (20 points)
+## Distinguishes acute (short-term/time-limited) versus chronic stressors (persistent/long-term). (20 points)
+# B) Physiological response (30 points total):
+## Adequately identifies the hypothalamic-pituitary-adrenocortical axis or HPA axis (acronym is sufficient). (10 points)
+## Briefly describes the role of the HPA axis: the hypothalamus signals the pituitary, which prompts the adrenal cortex to release cortisol and other hormones. (20 points)
+# C) General adaptation syndrome (30 points total):
+## Describes alarm phase: initial mobilization to threat and fight-or-flight. (10 points)
+## Describes resistance phase: sustained coping with continued stress, elevated but managed arousal, and attempts to adapt. (10 points)
+## Describes exhaustion phase: resources depleted after prolonged stress and increased risk to health or impaired functioning. (10 points)
+<\grading_rubric>

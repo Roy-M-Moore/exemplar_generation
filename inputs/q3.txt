@@ -1,0 +1,20 @@
+<question>
+QUESTION: Answer the following about memory (100 points).
+# A) Define encoding and explain how it transforms perception into memory. (20 points)
+# B) Describe the testing effect and how it influences later memory. (20 points)
+# C) Define working memory and state how long information is typically retained there without rehearsal. (30 points)
+# D) Define implicit and explicit memory. (30 points)
+<\question>
+
+<grading_rubric>
+# A) Encoding (20 points):
+## Explains that encoding transforms sensory or perceptual input into a storable memory representation.
+# B) Testing effect (20 points):
+## Defines the testing effect as retrieval improving later memory and explains that recalling information strengthens its future accessibility.
+# C) Working memory (30 points total):
+## Definition must include active maintenance or manipulation of information. (15 points)
+## Duration must mention that information is typically retained for approximately 15 to 20 seconds without rehearsal. (15 points)
+# D) Implicit vs explicit memory and examples (30 points total):
+## Defines implicit memory as unconscious memory that influences behavior or performance (e.g., procedural memory, priming). (15 points)
+## Defines explicit memory as conscious memory of past experiences (e.g., episodic memory or semantic memory). (15 points)
+<\grading_rubric>

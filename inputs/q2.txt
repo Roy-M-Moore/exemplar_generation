@@ -1,0 +1,26 @@
+<question>
+QUESTION: Answer the following about consciousness (100 points).
+# A) Briefly define consciousness. (10 points)
+# B) Define the four basic properties of consciousness. (40 points)
+# C) Describe the three levels of consciousness called minimal consciousness, full consciousness, and self-consciousness. (30 points)
+# D) List four broad classes of psychoactive drugs and mention the primary effect of each on the central nervous system (CNS). (20 points)
+<\question>
+
+<grading_rubric>
+# A) Definition of consciousness (10 points):
+## States that consciousness is a person’s subjective experience of the world and the mind.
+# B) Four properties of consciousness (40 points total):
+## Intentionality: explains that consciousness is directed toward or about objects and states. (10 points)
+## Unity: explains that consciousness integrates information into a coherent or unified experience. (10 points)
+## Selectivity: explains that consciousness involves focusing attention and including or excluding certain information. (10 points)
+## Transience: explains that consciousness is constantly changing or shifting over time. (10 points)
+# C) Three levels of consciousness (30 points total):
+## Describes minimal consciousness as a low-level awareness and responsiveness when the mind senses and may produce behavior. (10 points)
+## Describes full consciousness as the ability to be aware of and report one’s mental state. (10 points)
+## Describes self-consciousness as a level of consciousness in which attention is directed toward the self as an object. (10 points)
+# D) Drug classes and effects (20 points total):
+## Mentions depressants reduce CNS activity. (5 points)
+## Mentions stimulants increase CNS activity. (5 points)
+## Mentions narcotics/opioids produce pain relief and euphoria. (5 points)
+## Mentions hallucinogens alter perception and sensory experience. (5 points)
+<\grading_rubric>

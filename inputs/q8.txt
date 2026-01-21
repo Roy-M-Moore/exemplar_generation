@@ -1,0 +1,22 @@
+<question>
+QUESTION: Answer the following about personality (100 points).
+# A) Provide a concise definition of personality. (20 points)
+# B) Name the Big Five personality factors. (20 points)
+# C) Mention three pieces of empirical evidence that support a biological basis for personality traits. (30 points)
+# D) Define id, ego and superego as explained by the psychodynamic approach. (30 points)
+<\question>
+
+<grading_rubric>
+# A) Definition of personality (20 points):
+## Definition of personality that references characteristic or typical patterns of thinking, feeling, and behaving which show relative stability over time.
+# B) Big Five (20 points total):
+## Identifies all five major personality factors: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism. (4 points each)
+# C) Trait approach and biological evidence (30 points total):
+## Mentions twin studies demonstrating the heritability of personality traits. (10 points)
+## Mentions animal studies offer evidence for biological mechanisms underlying personality. (10 points)
+## Mentions physiological research linking brain or arousal systems to personality traits, such as differences in reticular formation activity between introverts and extraverts. (10 points)
+# D) Id, ego and superego (30 points total):
+## Defines the id as the part of the mind containing innate drives present at birth, responsible for basic needs, wants, desires, and impulses. (10 points)
+## Defines the ego as the part of personality that develops through interaction with the external world and helps manage life’s practical demands. (10 points)
+## Defines the superego as the mental system representing the internalisation of cultural and moral rules. (10 points)
+<\grading_rubric>

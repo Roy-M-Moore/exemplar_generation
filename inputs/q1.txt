@@ -1,0 +1,22 @@
+<question>
+QUESTION: Answer the following about sensation and perception (100 points).
+# A) Define sensation and perception, and explain the role of transduction in sensory systems. (30 points)
+# B) Describe the two major cortical visual pathways that originate in occipital cortex. For each pathway, explain where it projects and what it primarily represents. (40 points)
+# C) Explain feature-integration theory and illusory conjunctions, and identify the brain region that helps prevent illusory conjunctions. (30 points)
+<\question>
+
+<grading_rubric>
+# A) Sensation, perception and transduction (30 points total):
+## Defines sensation as the detection of stimuli by a sense organ. (10 points)
+## Defines perception as the organization and interpretation of sensory information in the brain. (10 points)
+## Explains transduction as the conversion of physical signals into neural signals that are carried to the central nervous system. (10 points)
+# B) Two major cortical visual pathways (40 points total):
+## Identifies the ventral stream as projecting from occipital to ventral temporal cortex. (10 points)
+## Links the ventral stream to processing object shape and identity/recognition. (10 points)
+## Identifies the dorsal stream as projecting from occipital to parietal cortex. (10 points)
+## Links the dorsal stream to processing object location, motion, visuomotor, or spatial information. (10 points)
+# C) Feature-integration theory and illusory conjunctions (30 points total):
+## Describes feature-integration theory: features are processed early and in parallel, and attention is required to bind features together. (10 points)
+## Defines illusory conjunctions as errors in feature binding. (10 points)
+## Identifies the parietal lobe as the brain region responsible for binding features. (10 points)
+<\grading_rubric>
