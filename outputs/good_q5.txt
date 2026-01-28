@@ -1,0 +1,15 @@
+A) Psychologists often describe emotions in terms of:
+- Arousal: the level of physiological activation or alertness, ranging from very calm or drowsy to highly excited or energized.
+- Valence: the emotional quality of being pleasant or unpleasant—whether the emotion feels positive (e.g., joy) or negative (e.g., anger or sadness).
+
+B) The James-Lange theory proposes that a stimulus first causes specific bodily changes (like increased heart rate, sweating, muscle tension), and then our perception of those physiological changes is what we experience as the emotion. In other words, we feel afraid because we notice that our body is shaking and our heart is pounding.
+
+The two-factor (Schachter-Singer) theory argues that emotion depends mostly on how we cognitively interpret the situation, while physiological arousal is more of a general background. According to this view, the same general arousal can be present, but our thoughts about what is going on decide which emotion we label it as, and the arousal mainly affects how strong the emotion feels.
+
+C) One neural pathway is a more direct route from the thalamus to the amygdala. This pathway sends sensory information straight to the amygdala and is especially involved in fear-related emotional processing, but it does not provide very detailed information about the stimulus.
+
+A second pathway is when signals run from the amygdala directly to the spinal cord to drive bodily reactions, instead of going through higher cortical areas for further evaluation.
+
+D) Intrinsic motivation refers to doing an activity because it is inherently interesting, enjoyable, or satisfying in itself (for example, reading a novel because you like the story).
+
+Extrinsic motivation refers to doing an activity in order to gain external rewards or avoid negative consequences (for example, studying mainly to get a high grade or to avoid failing).

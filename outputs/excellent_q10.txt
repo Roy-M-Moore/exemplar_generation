@@ -1,0 +1,9 @@
+A) A stressor is any event, situation, or demand that is perceived as threatening a person’s well-being or that requires significant adjustment or adaptation.  
+An acute stressor is short-term and time-limited (for example, an upcoming exam or narrowly avoiding a car accident), whereas a chronic stressor is long-lasting or recurrent over an extended period (such as ongoing financial problems or caring for a chronically ill relative).
+
+B) The primary hormonal system involved is the hypothalamic-pituitary-adrenocortical (HPA) axis.  
+When a threat is perceived, the hypothalamus is activated and releases signals (like CRH) to the pituitary gland. The pituitary then releases ACTH into the bloodstream, which travels to the adrenal cortex. In response, the adrenal cortex secretes cortisol and related hormones, which help mobilize energy, increase blood sugar, and support the body’s physiological response to the stressor.
+
+C) In the alarm phase, the body recognizes the threat and mounts an immediate fight-or-flight response: sympathetic nervous system activity and stress hormones increase heart rate, breathing, and energy availability to deal with the challenge.  
+In the resistance phase, the body’s arousal remains elevated but more stabilized; physiological systems stay activated to cope with the ongoing stressor, and the body attempts to adapt and sustain functioning in the face of continued demands.  
+In the exhaustion phase, the body has fully recovered and returns to normal functioning with no increased risk to health.

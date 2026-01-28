@@ -1,0 +1,14 @@
+A)  
+Sensation is the basic detection of energy or stimuli in the environment by the sense organs, like the eyes detecting light or the ears detecting sound waves.  
+Perception is basically the same thing as sensation, meaning it is just the initial picking up of simple inputs from the world without really changing them.  
+Transduction is when the brain compares what you are sensing now with past experiences and memories in order to figure out what the stimulus means.
+
+B)  
+One major cortical visual pathway is the ventral stream, which runs from the occipital cortex down into the ventral portions of the temporal cortex. It mainly deals with guiding actions in space, such as reaching and moving toward objects and using visual information to control where you move.  
+
+Another pathway is the dorsal stream, which goes from the occipital lobe mainly forward into the frontal cortex. This pathway is thought to be more involved in recognizing what objects are, including their detailed shapes and colors, so that you can identify and name them.
+
+C)  
+Feature-integration theory proposes that simple visual features such as color, orientation, and motion are processed very early and in parallel across the visual field, and that focused attention is then required to glue or bind these separate features together into a single, coherent object.  
+Illusory conjunctions are a type of illusion where the features fail to appear at all, so the person simply sees a blank space instead of any properties.  
+The part of the brain that mainly prevents these illusory conjunctions and keeps features together is the occipital lobe, where early visual processing happens.

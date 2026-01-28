@@ -1,0 +1,10 @@
+A) In classical conditioning, some stimulus pairings are learned more easily because organisms are biologically prepared, through evolution, to associate certain types of stimuli (like taste with nausea or snakes with danger) more readily than others; these species-specific predispositions make those associations form faster and more strongly. A key brain structure involved in fear conditioning is the amygdala.
+
+B) Positive reinforcement is when a stimulus is added after a behavior and this addition increases the likelihood that the behavior will occur again in the future (for example, giving a child candy for doing their homework).  
+Negative reinforcement is when an aversive stimulus is removed or reduced after a behavior, and that removal increases the likelihood of the behavior occurring again (for example, stopping a loud noise when an animal presses a lever, making lever-pressing more likely).
+
+C) Shaping is a procedure in which you reinforce successive approximations to the desired behavior—rewarding behaviors that are closer and closer to the final target behavior until the full behavior is performed.
+
+D) Observational learning is learning by watching the behavior of others (models) and then later imitating or using the information from what you observed.  
+Implicit learning is the acquisition of knowledge about patterns or regularities without conscious awareness of what has been learned or exactly how you learned it (for example, picking up grammar rules without being able to explicitly state them).  
+A neural system that is important for observational learning is the hippocampus.

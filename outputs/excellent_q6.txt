@@ -1,0 +1,27 @@
+A) Four key developmental milestones and approximate ages
+
+1. In the first months of life, newborns can discriminate between phonemes from many different languages, but this ability declines between about 6 and 12 months as they become tuned to the sounds of their native language.
+
+2. Canonical babbling (repetitive consonant-vowel sounds like “bababa”) typically begins around 4 to 6 months of age.
+
+3. First recognizable words (like “mama” or “ball”) usually appear around 10 to 12 months of age.
+
+4. Simple sentences (e.g., “I want juice”) begin to emerge around 4 to 5 years of age.
+
+B) Roles of Broca’s area and Wernicke’s area
+
+Broca’s area, located in the left frontal lobe, is primarily involved in language production and grammatical processing, helping us form fluent, syntactically structured speech.
+
+Wernicke’s area, in the left temporal lobe, is primarily involved in language comprehension and understanding meaning, helping us interpret spoken and written language.
+
+C) Prototype theory vs. exemplar theory
+
+Prototype theory suggests that we categorize objects by comparing them to an abstract “best” or average representation of a category (a prototype), and classify new items based on how closely they resemble that ideal example.
+
+Exemplar theory suggests that we categorize objects by comparing them to many specific instances (exemplars) of the category stored in memory, and we judge category membership based on similarity to these particular past examples.
+
+D) Belief bias and the illusory truth effect
+
+Belief bias is a reasoning error in which people judge the strength or validity of an argument based on whether they find the conclusion believable, rather than on whether the argument is logically valid.
+
+The illusory truth effect is the tendency for statements to be judged as more true simply because they are repeated multiple times, even if they are actually false.

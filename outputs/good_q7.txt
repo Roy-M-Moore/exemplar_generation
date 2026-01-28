@@ -1,0 +1,15 @@
+A)  
+Intelligence is the ability to use one’s mind to solve problems, adapt to new situations, and learn from experience.  
+
+In modern tests, IQ is operationalized as a standardized score: a person’s raw performance on a set of cognitive tasks is converted into a score that shows how they compare to a representative sample of the population (population norms), often with a mean of 100 and a fixed standard deviation.
+
+B)  
+When researchers find that monozygotic twins have higher IQ correlations than dizygotic twins, it suggests that IQ is not determined by the environment alone. Identical twins end up with more similar IQ scores than fraternal twins, which points to at least some genetic influence on intelligence, although shared family experiences likely play a role as well.  
+
+In this context, the heritability coefficient, h², is the squared correlation between an individual’s IQ score on two different testing occasions.
+
+C)  
+Three environmental influences on measured IQ include:  
+1. Socioeconomic status (SES).  
+2. Quality and amount of education.  
+3. Nutrition.

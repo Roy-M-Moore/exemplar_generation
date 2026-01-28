@@ -1,0 +1,9 @@
+A) Encoding is the process by which incoming sensory or perceptual information is transformed into a mental code that the brain can store. It takes what we see, hear, or feel and converts it into a memory trace or representation that can be placed into memory systems for later retrieval.
+
+B) The testing effect is the finding that actively retrieving information from memory (such as by taking a test or quizzing yourself) improves later memory for that material more than simply restudying it. When you recall information, the act of retrieval strengthens the memory trace and the retrieval pathways, making the information more accessible and easier to remember in the future.
+
+C) Working memory is a limited-capacity system that holds information temporarily while we actively maintain and manipulate it to perform tasks such as reasoning, problem solving, and language comprehension. Without rehearsal, information can usually be kept in working memory for several minutes before it fades.
+
+D) Implicit memory refers to memory that operates without conscious awareness and nevertheless influences behavior or performance. It is expressed through things like skills and habits (procedural memory) or priming, such as getting faster at a task with practice even if you can’t verbally describe what you’ve learned.
+
+Explicit memory is memory that cannot be consciously recalled and typically involves skills that are performed automatically without any awareness of remembering. It does not involve conscious recollection of specific past events or facts.

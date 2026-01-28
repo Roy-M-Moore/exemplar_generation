@@ -1,0 +1,11 @@
+A) Intelligence is the ability to use the mind to solve problems, reason, and learn from experience, including adapting to new situations and drawing on knowledge to deal with challenges.  
+IQ is operationalized in modern tests as a standardized score: an individual’s performance is compared to population norms, with scores scaled (for example, mean of 100 and a set standard deviation) so that we can see where a person falls relative to others of the same age.
+
+B) When monozygotic (identical) twins show higher IQ correlations than dizygotic (fraternal) twins, this suggests that genetic factors play an important role in intelligence. Monozygotic twins share essentially all of their genes, whereas dizygotic twins share, on average, about half. If both types of twins typically grow up in similar environments but the identical twins’ IQs are more similar, the most straightforward explanation is that the greater genetic similarity contributes to the greater similarity in IQ scores.  
+
+The heritability coefficient, h², in this context is a statistic that indicates how strongly genetic factors are associated with IQ scores in a given group, essentially summarizing how much IQ is related to genetic differences in that sample.
+
+C) Three environmental influences on measured IQ are:  
+1) Socioeconomic status (SES).  
+2) Education (quality and quantity of schooling).  
+3) Nutrition.

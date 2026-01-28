@@ -1,0 +1,11 @@
+A) Sensation is the detection of physical energy or stimuli by sense organs and sensory receptors (for example, light by the eyes or sound waves by the ears).  
+Perception is the organization and interpretation of this sensory information by the brain, so that the raw inputs are turned into meaningful experiences like seeing a face or hearing speech.  
+Transduction is the process by which physical stimuli (such as light, sound, or pressure) are converted into neural signals (action potentials) by sensory receptors, and these neural signals are then carried to the central nervous system for further processing.
+
+B) One major cortical visual pathway is the ventral stream. It projects from the occipital cortex forward into the ventral parts of the temporal cortex (often called the inferior temporal areas). This pathway is primarily involved in processing object shape and identity—figuring out “what” an object is and supporting object recognition.  
+
+The other major pathway is the dorsal stream. It projects from the occipital cortex up into the parietal cortex. This pathway is mainly involved in processing spatial information such as an object’s location and motion, and in guiding actions in space—often described as the “where” or “how” pathway.
+
+C) Feature-integration theory says that perception is based mostly on how our expectations and prior knowledge directly create a unified object all at once, so the brain does not need to separately handle basic parts of a stimulus.  
+Illusory conjunctions are visual illusions in which objects appear distorted in size or shape, like when straight lines look curved in certain patterns.  
+The brain region that mainly prevents illusory conjunctions is the frontal lobe, which controls higher-level decision making.

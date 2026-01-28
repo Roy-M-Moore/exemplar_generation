@@ -1,0 +1,15 @@
+A) Psychologists often describe emotions along two basic dimensions.  
+Arousal refers to the level of physiological activation or alertness, ranging from very calm or low energy to highly excited or agitated.  
+Valence refers to how positive or negative an emotion feels, from pleasant (e.g., joy) to unpleasant (e.g., anger or sadness).
+
+B) The James-Lange theory of emotion proposes that we first experience physiological changes in the body and then interpret those changes as a particular emotion. In other words, the bodily response precedes and produces the subjective feeling (e.g., we see a bear, our heart races and we tremble, and then we feel fear because of those bodily changes).  
+
+The two-factor (Schachter-Singer) theory argues that emotion results from a combination of general physiological arousal and a cognitive appraisal or label. According to this view, arousal by itself is nonspecific; we look to the situation and our interpretations to decide what emotion we are feeling (e.g., our heart is racing, and depending on the context we may label it as fear, excitement, etc.).
+
+C) One pathway is a fast, subcortical route that goes from the thalamus directly to the amygdala. This “quick and dirty” pathway allows rapid, automatic appraisal of potentially threatening stimuli and can trigger quick emotional responses (like a startle or immediate fear reaction) before we are consciously aware of the details.  
+
+The other pathway is a slower route that sends information from the thalamus straight down to lower brainstem and motor areas to produce more reflexive bodily actions, without going through the cortex and without changing amygdala activity. This slower route is mainly about carrying out basic motor responses rather than analyzing the stimulus in detail.
+
+D) Intrinsic motivation refers to doing an activity for its own sake, because it is enjoyable, interesting, or personally satisfying (for example, reading a novel because you love the story).  
+
+Extrinsic motivation refers to doing an activity in order to obtain external rewards or to avoid punishment (for example, studying only to get a good grade or to avoid failing).

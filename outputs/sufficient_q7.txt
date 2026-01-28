@@ -1,0 +1,8 @@
+A) Intelligence is the capacity to use mental abilities to solve problems, adapt to new situations, and learn from experience. IQ in modern tests is measured by asking people to rate their own intelligence on a scale, and that number is taken as their IQ.
+
+B) If monozygotic twins have higher IQ correlations than dizygotic twins, this suggests that intelligence is influenced by genetic factors, because monozygotic twins share essentially all of their genes while dizygotic twins share only about half. The greater similarity in IQ among monozygotic twins therefore points to genes playing a role in the origins of intelligence over and above the shared family environment. The heritability coefficient, h², is just the correlation between the IQ scores of monozygotic twins in a study.
+
+C) Three environmental influences on measured IQ include:
+1. Socioeconomic status of the family.
+2. The general quality of the neighborhood or home a person grows up in.
+3. Personality traits such as motivation.

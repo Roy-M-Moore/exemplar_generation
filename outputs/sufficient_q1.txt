@@ -1,0 +1,18 @@
+A)  
+Sensation is the process by which receptors in our sense organs detect physical stimulation from the environment, such as light, sound waves, or pressure, and register that raw input.  
+
+Perception is the process by which the brain organizes, interprets, and makes sense of those sensory signals so that we experience coherent objects and events in the world.  
+
+Transduction is the way the brain compares information from different senses and decides which sensory input to pay attention to most strongly at a given moment.  
+
+B)  
+One major cortical visual pathway is the ventral stream. It starts in the occipital visual areas and projects forward into the ventral parts of the temporal cortex, including inferior temporal regions. This pathway is mainly involved in processing what objects are: their shape, color, and identity, which allows us to recognize and name objects.  
+
+The other major pathway is the dorsal stream. It starts in the occipital lobe and mainly goes forward into regions of the frontal lobe, where it is primarily involved in identifying object categories and detailed color information so that we can recognize different kinds of objects.  
+
+C)  
+Feature-integration theory says that basic visual features—such as color, orientation, and size—are registered very early, automatically, and in parallel across the visual field. However, to combine these separate features into a single, unified perception of an object, the system requires focused attention on that object’s location; attention is what binds the features together into one coherent whole.  
+
+Illusory conjunctions are when a person completely fails to detect a stimulus that was briefly presented, so they report no features of it at all even though it was there.  
+
+The brain region that mainly prevents these illusory conjunctions by binding features is the visual areas of the occipital lobe, which integrate the different aspects of the stimulus into a single percept.
